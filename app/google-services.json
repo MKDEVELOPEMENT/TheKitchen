@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769554993738",
+    "firebase_url": "https://kitchen-2e05c.firebaseio.com",
+    "project_id": "kitchen-2e05c",
+    "storage_bucket": "kitchen-2e05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769554993738:android:62a122bcae695143",
+        "android_client_info": {
+          "package_name": "com.example.muaaz.kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769554993738-02cied4mggoio6mliovf3j0nob3ajidq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muaaz.kitchen",
+            "certificate_hash": "d3ce1dc50f3fa4bbd22739a54160ba33d45c0ae1"
+          }
+        },
+        {
+          "client_id": "769554993738-iso4n40gj7mrc3btigc5u7f7l4rkv5h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzOhJGFBxpqttzWEtOlBRLghnKPBd15g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769554993738-iso4n40gj7mrc3btigc5u7f7l4rkv5h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
